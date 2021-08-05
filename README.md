@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning:
 
   - Statistical Signal Processing (special thanks to [Colatina](https://www.youtube.com/channel/UCV0pkAJkePeV1n6bos0phmA/playlists));
-  - Data Science in general, specifically;
+  - Data Science in general, specifically anything useful for Kaggle Competitions, Robotics applications or BI Analytics;
   - ROS (Robot Operating System)😵
   - Web fullstack development.
 
