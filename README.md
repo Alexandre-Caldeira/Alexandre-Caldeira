@@ -1,7 +1,8 @@
 ### Oi, eu sou o Xande 👋
 
-<img src = "https://readme-jokes.vercel.app/api?theme=watermelon">
- 
+
+<img src = "https://readme-jokes.vercel.app/api?theme=watermelon" height="110">
+
 - 🔭 I’m currently working on:
  
   - Making [AuRoRA](https://github.com/NERo-AuRoRA/) Open Source and accessible for all researchers in robotics! ([old repo](https://github.com/NERO-UFV/AuRoRA));
@@ -35,11 +36,13 @@
   - [LinkedIn/o-alexandre-caldeira](https://www.linkedin.com/in/o-alexandre-caldeira/)
   - alexandre.caldeira@ufv.br
 
+![Profile View Counter](https://komarev.com/ghpvc/?username=Alexandre-Caldeira) 🚀
+
+ 
 
 <!-- ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Alexandre-Caldeira&show_icons=true) -->
 
 <!-- ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexandre-Caldeira) -->
-<!-- ![Profile View Counter](https://komarev.com/ghpvc/?username=Alexandre-Caldeira) -->
 
 <!-- DASHBOARDS: -->
 <!-- https://github.com/Naereen/badges -->
