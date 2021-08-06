@@ -1,5 +1,7 @@
-### Hi there 👋
+### Oi, eu sou o Xande 👋
 
+<img src = "https://readme-jokes.vercel.app/api?theme=watermelon">
+ 
 - 🔭 I’m currently working on:
  
   - Making [AuRoRA](https://github.com/NERo-AuRoRA/) Open Source and accessible for all researchers in robotics! ([old repo](https://github.com/NERO-UFV/AuRoRA));
@@ -32,6 +34,18 @@
 
   - [LinkedIn/o-alexandre-caldeira](https://www.linkedin.com/in/o-alexandre-caldeira/)
   - alexandre.caldeira@ufv.br
+
+
+<!-- ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Alexandre-Caldeira&show_icons=true) -->
+
+<!-- ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexandre-Caldeira) -->
+<!-- ![Profile View Counter](https://komarev.com/ghpvc/?username=Alexandre-Caldeira) -->
+
+<!-- DASHBOARDS: -->
+<!-- https://github.com/Naereen/badges -->
+<!-- ## 3. Contributors Badge ![Your Repository's Stats](https://contrib.rocks/image?repo=Tanu-N-Prabhu/Python)  -->
+<!-- ### Repository View Counter - HITS -->
+<!-- ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/Alexandre-Caldeira/TREVAS) -->
 
 <!--
 **Alexandre-Caldeira/Alexandre-Caldeira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
