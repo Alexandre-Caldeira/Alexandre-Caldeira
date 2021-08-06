@@ -37,12 +37,14 @@
   - alexandre.caldeira@ufv.br
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=Alexandre-Caldeira) 🚀
+<!-- https://app.assessfirst.com/_/profile/lhejcpjs-alexandre-caldeira -->
 
  
 
 <!-- ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Alexandre-Caldeira&show_icons=true) -->
 
 <!-- ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexandre-Caldeira) -->
+<!-- https://www.16personalities.com/profiles/d1fc93a6ec64b -->
 
 <!-- DASHBOARDS: -->
 <!-- https://github.com/Naereen/badges -->
