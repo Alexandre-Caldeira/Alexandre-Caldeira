@@ -1,7 +1,12 @@
+<img src = "https://readme-jokes.vercel.app/api?theme=watermelon" > 
+
 ### Oi, eu sou o Xande 👋
-
-
-<img src = "https://readme-jokes.vercel.app/api?theme=watermelon" height="105">
+<!-- 
+|   |  
+| ------------------- | 
+| <img src = "https://readme-jokes.vercel.app/api?theme=watermelon"  | 
+ -->
+<!-- <img src = "https://readme-jokes.vercel.app/api?theme=watermelon" height="105"> -->
 
 - 🔭 I’m currently working on:
  
