@@ -37,11 +37,14 @@
   - Quit getting involved in so many projects 😅
 
 - 📫 How to reach me:
-
-  - [LinkedIn/o-alexandre-caldeira](https://www.linkedin.com/in/o-alexandre-caldeira/)
   - alexandre.caldeira@ufv.br
-
+ 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin&link=http:///www.linkedin.com/in/o-alexandre-caldeira/)](https://www.linkedin.com/in/o-alexandre-caldeira/)
+![GitHub Followers](https://img.shields.io/github/followers/Alexandre-Caldeira?style=social) 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=Alexandre-Caldeira) 🚀
+
+
+<!--  [LinkedIn/o-alexandre-caldeira](https://www.linkedin.com/in/o-alexandre-caldeira/) -->
 <!-- https://app.assessfirst.com/_/profile/lhejcpjs-alexandre-caldeira -->
 
  
