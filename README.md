@@ -10,6 +10,7 @@
 
 - 🔭 I’m currently working on:
  
+  - A comparison of statistical detection models ([ongoing!](https://github.com/Alexandre-Caldeira/detection-theory-101))
   - Making [AuRoRA](https://github.com/NERo-AuRoRA/) Open Source and accessible for all researchers in robotics! ([old repo](https://github.com/NERO-UFV/AuRoRA));
   - Competing in Kaggle with [NIAS-IA](https://github.com/NIAS-IA-UFV/);
   - Completing [ForAll](https://github.com/OpenSourceLabUFV/ForAll/tree/kotlin-rewrite)'s first version;
