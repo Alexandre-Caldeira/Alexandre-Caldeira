@@ -1,5 +1,6 @@
-<img src = "https://readme-jokes.vercel.app/api?theme=watermelon" > 
-
+<div height="105">
+<img height="105" src = "https://readme-jokes.vercel.app/api?theme=watermelon" > 
+</div>
 <!-- https://stackoverflow.com/questions/1838873/visualizing-branch-topology-in-git/34467298#34467298 -->
 
 ### Oi, eu sou o Xande 👋
