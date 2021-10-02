@@ -24,20 +24,20 @@
 
 - 👯 I’m looking to collaborate on:
 
-  - Open Source dev in general, specially in [OSLU](https://github.com/OpenSourceLabUFV)'s [ForAll project](https://github.com/OpenSourceLabUFV/ForAll/tree/web);
-  - Applied Transfer Learning (Computer Vision), DeepRL;
-  - ANYTHING, really! 
+  - Any of [OSLU's](https://github.com/OpenSourceLabUFV) projects;
+  - Web apps for data storytelling, analytics and prediction;
+  - Applied ML, Transfer Learning (Computer Vision), DeepRL.
 
 - 🤔 I’m looking for help with:
 
   - Connecting a SICK LMS100 LiDAR to [this ubiquity-xenial-lxde raspberry image](https://downloads.ubiquityrobotics.com/pi.html) (v2020-11-07);
 
-- 📫 How to reach me:
-  - alexandre.caldeira@ufv.br
- 
+- 📫 How to reach me: 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin&link=http:///www.linkedin.com/in/o-alexandre-caldeira/)](https://www.linkedin.com/in/o-alexandre-caldeira/)
 ![GitHub Followers](https://img.shields.io/github/followers/Alexandre-Caldeira?style=social) 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=Alexandre-Caldeira) 🚀
+
+  - alexandre.caldeira@ufv.br
 
 
 <!--  [LinkedIn/o-alexandre-caldeira](https://www.linkedin.com/in/o-alexandre-caldeira/) -->
