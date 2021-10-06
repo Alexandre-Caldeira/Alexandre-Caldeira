@@ -29,9 +29,9 @@
   - Web apps for data storytelling, analytics and prediction;
   - Applied ML, Transfer Learning (Computer Vision), DeepRL.
 
-- 🤔 I’m looking for help with:
-
-  - Connecting a SICK LMS100 LiDAR to [this ubiquity-xenial-lxde raspberry image](https://downloads.ubiquityrobotics.com/pi.html) (v2020-11-07);
+<!-- - 🤔 I’m looking for help with: -->
+<!-- 
+  - Connecting a SICK LMS100 LiDAR to [this ubiquity-xenial-lxde raspberry image](https://downloads.ubiquityrobotics.com/pi.html) (v2020-11-07); -->
 
 - 📫 How to reach me: 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin&link=http:///www.linkedin.com/in/o-alexandre-caldeira/)](https://www.linkedin.com/in/o-alexandre-caldeira/)
