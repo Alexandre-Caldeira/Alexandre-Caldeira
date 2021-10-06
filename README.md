@@ -14,7 +14,7 @@
 - 🔭 I’m currently working on:
  
   - A comparison of statistical detection models ([ongoing!](https://github.com/Alexandre-Caldeira/detection-theory-101))
-  - Completing [ForAll](https://github.com/OpenSourceLabUFV/ForAll/tree/web)'s new version;
+  - Completing [ForAll](https://github.com/OpenSourceLabUFV/ForAll)'s new version;
   - Competing in Kaggle with [NIAS-IA](https://github.com/NIAS-IA-UFV/);
   
 - 🌱 I’m currently learning:
