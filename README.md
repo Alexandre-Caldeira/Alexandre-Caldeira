@@ -12,7 +12,8 @@
 <!-- <img src = "https://readme-jokes.vercel.app/api?theme=watermelon" height="105"> -->
 
 - 🔭 I’m currently working on:
- 
+
+  - Learning Java / Spring Framework
   - A comparison of statistical detection models ([ongoing!](https://github.com/Alexandre-Caldeira/detection-theory-101))
   - Completing [ForAll](https://github.com/OpenSourceLabUFV/ForAll)'s new version;
   - Competing in Kaggle with [NIAS-IA](https://github.com/NIAS-IA-UFV/);
