@@ -3,7 +3,15 @@
 </div>
 <!-- https://stackoverflow.com/questions/1838873/visualizing-branch-topology-in-git/34467298#34467298 -->
 
-### Oi, eu sou o Xande 👋
+TOTAL IDE-LOGGED PROGRAMMING TIME SINCE March,2021: 
+
+[![wakatime](https://wakatime.com/badge/user/5004c81a-62a7-4721-a885-32654543b047.svg?style=for-the-badge)](https://wakatime.com/@AlexandreCaldeira) 
+
+
+### [Oi, eu sou o Xande](https://wakatime.com/@AlexandreCaldeira) 👋
+
+
+
 <!-- 
 |   |  
 | ------------------- | 
@@ -40,6 +48,8 @@
 ![Profile View Counter](https://komarev.com/ghpvc/?username=Alexandre-Caldeira) 🚀
 
   - alexandre.caldeira@ufv.br
+
+
 
 
 <!--  [LinkedIn/o-alexandre-caldeira](https://www.linkedin.com/in/o-alexandre-caldeira/) -->
