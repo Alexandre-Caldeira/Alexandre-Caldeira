@@ -1,13 +1,13 @@
-<div height="130">
+<!-- <div height="130">
 <img height="130" src = "https://readme-jokes.vercel.app/api?theme=watermelon" > 
 </div>
-
-<!-- <img src = "https://readme-jokes.vercel.app/api?theme=watermelon" >  -->
+ -->
+<img src="https://readme-jokes.vercel.app/api?theme=watermeloni" alt="Jokes Card" />
 <!-- https://stackoverflow.com/questions/1838873/visualizing-branch-topology-in-git/34467298#34467298 -->
 
-TOTAL IDE-LOGGED PROGRAMMING TIME SINCE March,2021: 
-
-[![wakatime](https://wakatime.com/badge/user/5004c81a-62a7-4721-a885-32654543b047.svg?style=for-the-badge)](https://wakatime.com/@AlexandreCaldeira) 
+> TOTAL IDE-LOGGED PROGRAMMING TIME SINCE March,2021: 
+>
+> [![wakatime](https://wakatime.com/badge/user/5004c81a-62a7-4721-a885-32654543b047.svg?style=for-the-badge)](https://wakatime.com/@AlexandreCaldeira) 
 
 
 ### [Oi, eu sou o Xande](https://wakatime.com/@AlexandreCaldeira) 👋
