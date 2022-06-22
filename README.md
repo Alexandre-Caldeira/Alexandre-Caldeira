@@ -23,6 +23,7 @@
 
 - 🔭 I’m currently working on:
 
+  - Learning Azure MLOps Fullstack Solutions
   - Learning Java / Spring Framework
   - A comparison of statistical detection models ([ongoing!](https://github.com/Alexandre-Caldeira/detection-theory-101))
   - Completing [ForAll](https://github.com/OpenSourceLabUFV/ForAll)'s new version;
