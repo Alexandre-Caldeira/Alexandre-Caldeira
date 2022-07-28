@@ -1,4 +1,4 @@
-<img height=105 src="https://readme-jokes.vercel.app/api?theme=watermeloni" alt="Jokes Card" />
+<img src="https://readme-jokes.vercel.app/api?theme=watermeloni" alt="Jokes Card" />
 
 ### [Oi, eu sou o Xande](https://wakatime.com/@AlexandreCaldeira) 👋
 
