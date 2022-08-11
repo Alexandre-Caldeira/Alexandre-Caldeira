@@ -5,33 +5,18 @@
 - 🔭 I’m currently working on:
 
   - Becoming a [Microsoft Certified Azure AI Engineer](https://docs.microsoft.com/pt-br/certifications/azure-ai-engineer/);
-  - Learning Azure MLOps Fullstack Solutions;
-  - Competing in Kaggle with [NIAS-IA](https://github.com/NIAS-IA-UFV/knowledge-transfer/);
+  - Competing in [Kaggle](https://www.kaggle.com/alexandrecaldeiraufv) with [NIAS-IA](https://github.com/NIAS-IA-UFV/knowledge-transfer/);
   - Completing [ForAll](https://github.com/OpenSourceLabUFV/ForAll)'s new version; 
-  - A comparison of statistical detection models ([ongoing!](https://github.com/Alexandre-Caldeira/detection-theory-101))
+  - A comparison of statistical sequential testing response detection models ([ongoing!](https://github.com/Alexandre-Caldeira/detection-theory-101))
   
-- 🌱 I’m currently learning:
+- 🌱 Ask me about:
 
   - Data Science in general, specially for:
-    - MLOps for BI Analytics,
-    - Kaggle Competitions, 
-    - Robotics and Biomedical Engineering applications;
-  - Statistical Signal Processing (special thanks to [Colatina](https://www.youtube.com/channel/UCV0pkAJkePeV1n6bos0phmA/playlists));
-
-- 👯 I’m in love with, and looking to collaborate on:
-
+    - Applied MLOps for BI Analytics, Transfer Learning (NLP Transformers, Computer Vision), DeepRL
+    - Robotics and Biomedical Engineering theory and applications;
   - Solving problems with AI, data storytelling and education;
-  - Applied MLOps, Transfer Learning (NLP Transformers, Computer Vision), DeepRL;
-  - Competing on [Kaggle](https://www.kaggle.com/alexandrecaldeiraufv);
   - Web apps for data storytelling, analytics and prediction;
   - Web fullstack development with Spring, React, Angular and Docker.
-
-- 📫 Reach me @: 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin&link=http:///www.linkedin.com/in/o-alexandre-caldeira/)](https://www.linkedin.com/in/o-alexandre-caldeira/)
-![GitHub Followers](https://img.shields.io/github/followers/Alexandre-Caldeira?style=social) 
-![Profile View Counter](https://komarev.com/ghpvc/?username=Alexandre-Caldeira) 🚀
-
-  - alexandre.caldeira@ufv.br
   
 > TOTAL IDE-LOGGED PROGRAMMING TIME SINCE March,2021: 
 >
@@ -78,3 +63,11 @@
 ![Eclipse](https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?style=for-the-badge&logo=Eclipse-IDE&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=Visual-Studio&logoColor=white)
+
+
+- 📫 Reach me @: 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin&link=http:///www.linkedin.com/in/o-alexandre-caldeira/)](https://www.linkedin.com/in/o-alexandre-caldeira/)
+![GitHub Followers](https://img.shields.io/github/followers/Alexandre-Caldeira?style=social) 
+![Profile View Counter](https://komarev.com/ghpvc/?username=Alexandre-Caldeira) 🚀
+
+  - alexandre.caldeira@ufv.br
