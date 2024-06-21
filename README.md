@@ -4,17 +4,15 @@
 
 - 🔭 I’m currently working on:
 
-  - Becoming a [Microsoft Certified Azure AI Engineer](https://docs.microsoft.com/pt-br/certifications/azure-ai-engineer/);
-  - Competing in [Kaggle](https://www.kaggle.com/alexandrecaldeiraufv) with [NIAS-IA](https://github.com/NIAS-IA-UFV/knowledge-transfer/);
-  - Completing [ForAll](https://github.com/OpenSourceLabUFV/ForAll)'s new version; 
+  - Statistical and Machine Learning methods for Automatic Patient-adaptive Objective Response Detection of Evoked Potentials
   - A comparison of statistical sequential testing response detection models ([ongoing!](https://github.com/Alexandre-Caldeira/detection-theory-101))
   
 - 🌱 Ask me about:
 
   - Data Science in general, specially for:
-    - Applied MLOps for BI Analytics, Transfer Learning (NLP Transformers, Computer Vision), DeepRL
+    - Statistical hypothesis testing, Deep Reinforcement Learning;
     - Robotics and Biomedical Engineering theory and applications;
-  - Solving problems with AI, data storytelling and education;
+  - Solving problems with ML, data storytelling and education;
   - Web apps for data storytelling, analytics and prediction;
   - Web fullstack development with Spring, React, Angular and Docker.
   
