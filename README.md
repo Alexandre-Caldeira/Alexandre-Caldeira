@@ -4,7 +4,9 @@
 
 - 🔭 I’m currently working on:
 
-  - Statistical and Machine Learning methods for Automatic Patient-adaptive Objective Response Detection of Evoked Potentials
+  - Automatic Patient-adaptive Objective Response Detection of Evoked Potentials
+  - Sequential hypothesis testing methods for ASSR and ABR
+  - Modeling Machine Learning methods for ASSR and ABR reliable detection  
   - A comparison of statistical sequential testing response detection models ([ongoing!](https://github.com/Alexandre-Caldeira/detection-theory-101))
   
 - 🌱 Ask me about:
