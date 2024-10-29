@@ -8,6 +8,8 @@
   - Sequential hypothesis testing methods for ASSR and ABR
   - Modeling Machine Learning methods for ASSR and ABR reliable detection  
   - A comparison of statistical sequential testing response detection models ([ongoing!](https://github.com/Alexandre-Caldeira/detection-theory-101))
+  - Learning Neuroscience, focused on the auditory pathway
+  - Studying Causal Inference
   
 - 🌱 Ask me about:
 
@@ -67,7 +69,4 @@
 
 - 📫 Reach me @: 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin&link=http:///www.linkedin.com/in/o-alexandre-caldeira/)](https://www.linkedin.com/in/o-alexandre-caldeira/)
-![GitHub Followers](https://img.shields.io/github/followers/Alexandre-Caldeira?style=social) 
-![Profile View Counter](https://komarev.com/ghpvc/?username=Alexandre-Caldeira) 🚀
-
-  - alexandre.caldeira@ufv.br
+  - eegcal@gmail.com
